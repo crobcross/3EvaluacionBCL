@@ -1,0 +1,40 @@
+* {
+	margin: 0!important;
+}
+.fondomenu {
+	background: linear-gradient(90deg, rgba(0,0,0,.3), rgba(0,0,0,.3)), url(../img/fondomenu.jpg);
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+}
+.fondomenu a {
+	color: #fff;
+	padding: 5%;
+	font-size: 25px;
+	transition: .5s;
+}
+.fondomenu .row {
+	background:rgba(0,0,0,.5);
+	width: 100%;
+	height: 60px;
+}
+.fondomenu a:hover {
+	font-size: 27px;	
+	color: #61C6E3;
+	text-decoration: none;
+}
+.contenedor1 {
+	background: linear-gradient(90deg, rgba(46,116,200,.5), rgba(46,116,200,.5)), url(../img/fondo2.jpg);
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 700px;
+}
+.contenedor2 {
+	background: linear-gradient(90deg, rgba(0,0,0,.4), rgba(0,0,0,.4)), url(../img/fondo3.jpg);
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
